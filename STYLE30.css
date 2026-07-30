@@ -1,0 +1,10 @@
+#cabecera {
+  width:100%;  
+  height:100px;
+  background-color:#d365cd;
+  color:#00d5e4;
+  text-align:center;
+  font-family:Times New Roman;
+  font-size:50px;
+  font-weight:bold; 
+}
