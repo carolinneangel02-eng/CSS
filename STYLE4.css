@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .tituloprincipal{
   border:5px solid #ff0000;
 }
 .comentarios{
   border-top:1px solid #ffff00;
   border-bottom:1px solid #ffff00;
+=======
+.tituloprincipal{
+  border:5px solid #ff0000;
+}
+.comentarios{
+  border-top:1px solid #ffff00;
+  border-bottom:1px solid #ffff00;
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }

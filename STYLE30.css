@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #cabecera {
   width:100%;  
   height:100px;
@@ -7,4 +8,15 @@
   font-family:Times New Roman;
   font-size:50px;
   font-weight:bold; 
+=======
+#cabecera {
+  width:100%;  
+  height:100px;
+  background-color:#d365cd;
+  color:#00d5e4;
+  text-align:center;
+  font-family:Times New Roman;
+  font-size:50px;
+  font-weight:bold; 
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }

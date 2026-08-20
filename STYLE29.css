@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #menuhorizontal {
   margin:0;
   padding:0;
@@ -20,4 +21,28 @@
 
 #menuhorizontal a:hover {
   background-color:#336699;
+=======
+#menuhorizontal {
+  margin:0;
+  padding:0;
+  list-style-type:none;
+}
+#menuhorizontal a {
+  width:100px;
+  text-decoration:none;
+  text-align:center;
+  color:#d839b0;
+  background-color:#97e0dd;
+  padding:3px 5px;
+  border-right:1px solid blue;
+  display:block;
+}
+
+#menuhorizontal li {
+  float:left;
+}
+
+#menuhorizontal a:hover {
+  background-color:#336699;
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }

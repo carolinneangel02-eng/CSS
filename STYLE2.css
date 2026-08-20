@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #eeeeee;
 }
@@ -7,3 +8,14 @@ body{
     background-color: #ffff00;
     font-style: italic;
 }
+=======
+body{
+    background-color: #eeeeee;
+}
+
+.importante{
+    color: #080808;
+    background-color: #ffff00;
+    font-style: italic;
+}
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c

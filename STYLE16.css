@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .codigofuente {
   font-size:12px;
   background-color:#ffffcc;
@@ -6,4 +7,14 @@
   border-color:#4d0ce4;
 
   padding:20px;
+=======
+.codigofuente {
+  font-size:12px;
+  background-color:#ffffcc;
+  border-width:1px;
+  border-style:dotted;
+  border-color:#4d0ce4;
+
+  padding:20px;
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }

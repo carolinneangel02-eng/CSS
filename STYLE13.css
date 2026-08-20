@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 #cabecera {
   font-family:Times New Roman;
   font-size:30px;
   text-align:center;
   color:#975dc7;
   background-color:#8ac6ce;
+=======
+#cabecera {
+  font-family:Times New Roman;
+  font-size:30px;
+  text-align:center;
+  color:#975dc7;
+  background-color:#8ac6ce;
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }

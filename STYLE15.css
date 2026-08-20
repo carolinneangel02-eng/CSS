@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .titulopagina {
   background-color:#ffffcc;
   text-align:center;
@@ -18,4 +19,26 @@
   border-right-color:#591eb8;
   border-bottom-color:#48a2c5;
   border-left-color:#7dda66;
+=======
+.titulopagina {
+  background-color:#ffffcc;
+  text-align:center;
+  font-family:verdana;
+  font-size:40px;
+
+  border-top-width:1px;
+  border-right-width:3px;
+  border-bottom-width:3px;
+  border-left-width:1px;
+
+  border-top-style:dotted;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style:dotted;
+
+  border-top-color:#7cd35a;
+  border-right-color:#591eb8;
+  border-bottom-color:#48a2c5;
+  border-left-color:#7dda66;
+>>>>>>> b4111f82dacf75823bf5d992ee48bb0980d7b34c
 }
