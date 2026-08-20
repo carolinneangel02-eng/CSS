@@ -1,0 +1,45 @@
+caption
+{
+  font-family:arial;
+  font-size:15px;
+  text-align: center;
+  margin: 0px;
+  font-weight: bold;
+  padding:10px;
+}
+
+table
+{
+  border-collapse: collapse;
+}
+
+th
+{
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 0.5em;
+  background-color:#dc8dec;;
+}
+
+thead th
+{
+  background-color: #dda2e9;
+  color: #fff;
+}
+
+tbody th
+{
+  font-family:arial;
+  font-weight: normal;
+  background-color: #e39bf1;
+  color:rgb(187, 1, 243);
+}
+
+td {
+  border: 1px solid #000;
+  padding: .5em;
+  background-color:#e778ac;
+  width:100px;
+  text-align:center;
+}
+
