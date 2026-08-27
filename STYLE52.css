@@ -1,0 +1,7 @@
+ol li:first-child {
+  color:rgb(164, 108, 197);
+}
+
+ol li:last-child {
+  color:rgb(253, 97, 206);
+}

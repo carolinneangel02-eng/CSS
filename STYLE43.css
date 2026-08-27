@@ -1,0 +1,27 @@
+#caja1 {
+  float:left;
+  width:250px;
+  background-color:rgb(155, 185, 231);
+  margin:10px;
+}
+
+#caja2 {
+  float:left;
+  width:250px;
+  background-color:rgb(217, 99, 228);
+  margin:10px;
+}
+
+#caja3 {
+  float:left;
+  width:250px;
+  background-color:rgb(186, 76, 230);
+  margin:10px;
+}
+
+#caja4 {
+  float:left;
+  width:250px;
+  background-color:rgb(211, 20, 185);
+  margin:10px;
+}
